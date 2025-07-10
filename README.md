@@ -1,2 +1,3 @@
 # Quantum-Codes
-Quantum computing codes
+Quantum computing codes from studying projects
+
